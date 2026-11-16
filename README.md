@@ -12,4 +12,7 @@ python -m pip install -e .
 
 Import `greet` from `greet_community`.
 
+Run: `python -c "from greet_community import greet; print(greet('Hee'))"`
+Output: `Hello, Hee!`
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) to contribute.
